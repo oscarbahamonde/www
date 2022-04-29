@@ -1,0 +1,35 @@
+components:
+  language_switcher:
+    change_language: cambiar idioma
+  theme_switcher:
+    theme: tema
+    change_theme: cambiar tema
+pages:
+  index:
+    title: Schema Generator
+  blank:
+    nav: en blanco
+    title: página en blanco
+    just_blank_page_with_title: sólo página en blanco con título
+  test:
+    nav: test
+    title: test
+    counter: contador
+    increment: incrementar
+    decrement: disminuir
+    reset: reiniciar
+    identity: identidad
+    full_name: nombre completo
+  about:
+    nav: acerca de
+    title: acerca de
+  dashboard:
+    nav: tablero
+    title: tablero
+    index:
+      nav: inicio
+      title: inicio
+banners:
+  welcome:  ¡Bienvenido a %{app_name}!
+others:
+  learn_more: aprender más
